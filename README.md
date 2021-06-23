@@ -1,5 +1,4 @@
 # Virtual-Paint
-# Virtual-Paint
 Virtual paint is developed  using OpenCV. The objective of this project is to draw virtually with the same colour as the object/marker colour in our hand. It finds the colour contours using webcam and place different points wherever it find the colour, creates a list of points and display/draw them and loop it around.
 
 ![Screenshot](screenshot.JPG)
